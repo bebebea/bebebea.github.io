@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pixel-perfect collisions (and movement) using Bresenham's algorithm (and implementing it in GameMaker)
+title: Pixel-perfect collisions using Bresenham's algorithm (and implementing it in GameMaker)
 tags: Games GameMaker
 ---
 

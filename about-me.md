@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About Me
+title: Contact me
 ---
-
-Hi there!
 
 I'm not very active on social media.
 But you can find me here:
@@ -11,6 +9,3 @@ But you can find me here:
 * [CurseForge](https://www.curseforge.com/members/bebebea_loste)
 * [Modrinth](https://modrinth.com/user/bebebea_loste)
 
-I hope you have a nice day! ^^
-
-![A red panda](https://upload.wikimedia.org/wikipedia/commons/c/c4/Indian_Red_Panda.jpg)

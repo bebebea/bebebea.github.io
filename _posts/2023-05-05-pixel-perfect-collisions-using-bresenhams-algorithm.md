@@ -66,24 +66,19 @@ function bresenhams_line(_x1, _y1, _x2, _y2)
 {
 	_x1 = int64(_x1); _y1 = int64(_y1);
 	_x2 = int64(_x2); _y2 = int64(_y2);
-	
 	// Array creation
 	var _points = [];
-	
 	// Delta
 	var _dx = _x2-_x1;
 	var _dy = _y2-_y1;
-	
 	// Angle
 	var _sx = sign(_dx);
 	var _sy = sign(_dy);
-
 	// Segment Length
 	_dx = abs(_dx);
 	_dy = abs(_dy);
 	var _d = max(_dx,_dy);
 	var _r = _d/2;
-	
 	//Algorithm
 	if (_dx > _dy) {
         for (var i=0;i<=_d;i++) {
@@ -111,7 +106,6 @@ function bresenhams_line(_x1, _y1, _x2, _y2)
             }
         }
     }
-	
 	// Value return
 	return _points;
 }

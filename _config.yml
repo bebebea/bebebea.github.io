@@ -2,9 +2,9 @@
 title:               My Silly Blog
 tagline:             'Sometimes I like writing stuff down.'
 description:         'Hi! Welcome!'
-url:                 "https://bebebea.github.io"
+url:                 https://bebebea.github.io
 domain:              bebebea.github.io
-baseurl:             'https://bebebea.github.io/'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 

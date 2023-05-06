@@ -1,0 +1,41 @@
+---
+layout: default
+title: Home
+---
+<p>
+  Hi! Welcome to my website!
+</p>
+<p>
+  I'm Bea! I love games, art, cartoons, and red pandas. I'm also kind of a nerd.
+  You might already know of me from the <a href="https://www.planetminecraft.com/member/bebebea_loste/">Minecraft modding community</a>.
+  I do resource packs and data packs sometimes.
+</p>
+<p>
+  This is mainly intended to be a simple blog where I can post random stuff every now and then.
+  I'm quite scatterbrained, so projects I work on I usually move on from quickly and I can never really settle on anything.
+  But, as of right now, I'm working on projects primarily in GameMaker.
+  I figured why not share a few interesting tidbits with the world as well!
+</p>
+<p>
+  If you like anything you see here... that's super cool! ^^
+</p>
+<p>
+</p>
+<h2>
+  Posts
+</h2>
+<p>
+  
+</p>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div>
+    <span class="post-date-in-index">{{ post.date | date_to_string }}</span>
+    <span class="post-titlethingy">
+      <a href="{{ post.url | absolute_url }}">
+        {{ post.title }}
+      </a>
+    </span>
+  </div>
+  {% endfor %}
+</div>

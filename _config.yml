@@ -7,7 +7,6 @@ domain:              bebebea.github.io
 baseurl:             'https://bebebea.github.io/'
 paginate:            5
 permalink:           pretty
-remote_theme: 
 
 # About/contact
 author:

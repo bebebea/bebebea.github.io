@@ -50,7 +50,26 @@ Here is a basic template.
 
 Forge requires you to have a [*mods.toml* file](https://docs.minecraftforge.net/en/1.19.2/gettingstarted/structuring/) in the *META-INF* directory which is located in your root directory.
   
-A template is available in the Forge docs which I linked above.
+A template is available in the Forge docs which I linked above. However, instead of using the typical *javafml* mod loader, you'll need to use *lowcodefml*.
+This will require you to format the file slightly differently. I don't know why.
+Still, here is an example of how it should (has to) look. Unfortunately, I wasn't able to find any documentation about it online.
+  
+{% highlight json %}
+modLoader = 'lowcodefml'
+loaderVersion = '[41,45)'
+license = 'MIT License'
+showAsResourcePack = false
+
+mods = [
+	{ modId = 'mod_id', version = '1.0.0', displayName = 'My Mod', description = '', logoFile = '', credits = '', authors = 'My Cat', displayURL = '' },
+]
+[[dependencies.mod_id]]
+    modId="dependency"
+    mandatory=true
+    versionRange="[1.0.0,]"
+    ordering="NONE"
+    side="BOTH"
+{% endhighlight %}
 
 ### Final step
 

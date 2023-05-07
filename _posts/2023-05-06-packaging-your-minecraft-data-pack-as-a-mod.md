@@ -54,7 +54,7 @@ A template is available in the Forge docs which I linked above. However, instead
 This will require you to format the file slightly differently. I don't know why.
 Still, here is an example of how it should (has to) look. Unfortunately, I wasn't able to find any documentation about it online.
   
-{% highlight json %}
+{% highlight js %}
 modLoader = 'lowcodefml'
 loaderVersion = '[41,45)'
 license = 'MIT License'

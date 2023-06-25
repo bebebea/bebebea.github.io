@@ -28,7 +28,7 @@ Available on: [Planet Minecraft](https://www.planetminecraft.com/data-pack/cherr
 ### Hearths
 A data pack that adds new features and structures to the Nether!
 
-Available on: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/hearths/) • [Modrinth](https://modrinth.com/datapack/hearths/) • Planet Minecraft (soon)
+Available on: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/hearths/) • [Modrinth](https://modrinth.com/datapack/hearths/) • [Planet Minecraft](https://www.planetminecraft.com/data-pack/hearths/)
 
 
 ## Resource packs

@@ -5,7 +5,7 @@ title: Minecraft
 
 Here is a full list of all my Minecraft projects, along with links to sites where you can download them.
 
-Avoid downloading my mods (or anybody else's for that matter) from anywhere else. There's plenty of sites that reupload stuff without permission, and downloading from them may pose a security risk!
+Please avoid downloading my mods from anywhere else. There's plenty of sites that reupload stuff without permission, and downloading from them may pose a security risk!
 
 
 ## Data packs
@@ -25,6 +25,11 @@ A data pack that overhauls the 1.20 Cherry Grove biome!
 
 Available on: [Planet Minecraft](https://www.planetminecraft.com/data-pack/cherrier-groves/)
 
+### Hearths
+A data pack that adds new features and structures to the Nether!
+
+Available on: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/hearths/) • [Modrinth](https://modrinth.com/datapack/hearths/) • Planet Minecraft (soon)
+
 
 ## Resource packs
 
@@ -38,13 +43,13 @@ Available on: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/va
 
 A resource pack that makes banner pattern items distinguishable from each other. Part of Vanilla+ Collections.
 
-Available on: CurseForge • Modrinth • [Planet Minecraft](https://www.planetminecraft.com/texture-pack/banner-pattern-clarity/)
+Available on: [CurseForge](https://legacy.curseforge.com/minecraft/texture-packs/banner-pattern-clarity/) • [Modrinth](https://modrinth.com/resourcepack/banner-pattern-clarity/) • [Planet Minecraft](https://www.planetminecraft.com/texture-pack/banner-pattern-clarity/)
 
 ### Blockier Goat Horn
 
 A resource pack that makes the Goat Horn item blocky. Part of Vanilla+ Collections.
 
-Available on: CurseForge • Modrinth • [Planet Minecraft](https://www.planetminecraft.com/texture-pack/blockier-goat-horn/)
+Available on: [CurseForge](https://legacy.curseforge.com/minecraft/texture-packs/blockier-goat-horn/) • [Modrinth](https://modrinth.com/resourcepack/blockier-goat-horn/) • [Planet Minecraft](https://www.planetminecraft.com/texture-pack/blockier-goat-horn/)
 
 ^.^
 

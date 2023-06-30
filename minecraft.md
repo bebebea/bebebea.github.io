@@ -51,6 +51,12 @@ A resource pack that makes the Goat Horn item blocky. Part of Vanilla+ Collectio
 
 Available on: [CurseForge](https://legacy.curseforge.com/minecraft/texture-packs/blockier-goat-horn/) • [Modrinth](https://modrinth.com/resourcepack/blockier-goat-horn/) • [Planet Minecraft](https://www.planetminecraft.com/texture-pack/blockier-goat-horn/)
 
+### Serified Font
+
+A resource pack that reworks the Minecraft typeface. Part of Vanilla+ Collections.
+
+Available on: -
+
 ^.^
 
 That's the end of the list!

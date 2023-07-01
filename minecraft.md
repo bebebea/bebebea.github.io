@@ -43,19 +43,19 @@ Available on: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/va
 
 A resource pack that makes banner pattern items distinguishable from each other. Part of Vanilla+ Collections.
 
-Available on: [CurseForge](https://legacy.curseforge.com/minecraft/texture-packs/banner-pattern-clarity/) • [Modrinth](https://modrinth.com/resourcepack/banner-pattern-clarity/) • [Planet Minecraft](https://www.planetminecraft.com/texture-pack/banner-pattern-clarity/)
+Available on: [CurseForge](https://curseforge.com/minecraft/texture-packs/banner-pattern-clarity/) • [Modrinth](https://modrinth.com/resourcepack/banner-pattern-clarity/) • [Planet Minecraft](https://www.planetminecraft.com/texture-pack/banner-pattern-clarity/)
 
 ### Blockier Goat Horn
 
 A resource pack that makes the Goat Horn item blocky. Part of Vanilla+ Collections.
 
-Available on: [CurseForge](https://legacy.curseforge.com/minecraft/texture-packs/blockier-goat-horn/) • [Modrinth](https://modrinth.com/resourcepack/blockier-goat-horn/) • [Planet Minecraft](https://www.planetminecraft.com/texture-pack/blockier-goat-horn/)
+Available on: [CurseForge](https://curseforge.com/minecraft/texture-packs/blockier-goat-horn/) • [Modrinth](https://modrinth.com/resourcepack/blockier-goat-horn/) • [Planet Minecraft](https://www.planetminecraft.com/texture-pack/blockier-goat-horn/)
 
 ### Serified Font
 
 A resource pack that reworks the Minecraft typeface. Part of Vanilla+ Collections.
 
-Available on: -
+Available on: [CurseForge](https://curseforge.com/minecraft/texture-packs/serified-font/) • [Modrinth](https://modrinth.com/resourcepack/serified-font/) • [Planet Minecraft](https://www.planetminecraft.com/texture-pack/serified-font/)
 
 ^.^
 

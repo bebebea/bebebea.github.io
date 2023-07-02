@@ -8,7 +8,7 @@ Here is a full list of all my Minecraft projects, along with links to sites wher
 Please avoid downloading my mods from anywhere else. There's plenty of sites that reupload stuff without permission, and downloading from them may pose a security risk!
 
 
-## Data packs
+## **Data packs**
 
 ### Explorify
 A data pack that adds new fancy-looking structures!
@@ -31,7 +31,7 @@ A data pack that adds new features and structures to the Nether!
 Available on: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/hearths/) • [Modrinth](https://modrinth.com/datapack/hearths/) • [Planet Minecraft](https://www.planetminecraft.com/data-pack/hearths/)
 
 
-## Resource packs
+## **Resource packs**
 
 ### Vanilla+ Collections
 

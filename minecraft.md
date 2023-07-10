@@ -57,6 +57,12 @@ A resource pack that reworks the Minecraft typeface. Part of Vanilla+ Collection
 
 Available on: [CurseForge](https://curseforge.com/minecraft/texture-packs/serified-font/) • [Modrinth](https://modrinth.com/resourcepack/serified-font/) • [Planet Minecraft](https://www.planetminecraft.com/texture-pack/serified-font/)
 
+### Fancy Crops
+
+A resource pack that remodels and retextures crops.
+
+Available on: [CurseForge](https://curseforge.com/minecraft/texture-packs/fancy-crops/) • [Modrinth](https://modrinth.com/resourcepack/fancy-crops/) • [Planet Minecraft](https://www.planetminecraft.com/texture-pack/fancy-crops/)
+
 ^.^
 
 That's the end of the list!
